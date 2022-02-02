@@ -1,6 +1,6 @@
 ### Olá, eu sou a Karen Gaspar, estudante de Web FullStack 👋
 
-- 🌱 Atualmente aprendendo Front End
+- 🌱 Atualmente aprendendo Back End
 - 😄 Meus pronomes são: Ela/Dela
 
 <div align="center">
