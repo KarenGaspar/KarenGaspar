@@ -1,7 +1,4 @@
-### Olá, eu sou a Karen Gaspar, estudante de Web FullStack 👋
-
-- 🌱 Atualmente aprendendo Back End
-- 😄 Meus pronomes são: Ela/Dela
+### Olá, eu sou a Karen Gaspar, desenvolvedora em Front-End 👋
 
 <div align="center">
   <a href="https://github.com/KarenGaspar">
