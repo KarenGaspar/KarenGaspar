@@ -1,4 +1,4 @@
-### Olá, eu sou a Karen Gaspar, desenvolvedora em Front-End 👋
+### Olá, eu sou a Karen Gaspar 👋
 
 <div align="center">
   <a href="https://github.com/KarenGaspar">
